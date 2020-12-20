@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'BRILIBOT_V1'; 
+const BotName = 'BriliBot_V1'; 
 const instagram = 'https://instagram.com/hh.brili'; 
 const telegram = 'https://t.me/'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
